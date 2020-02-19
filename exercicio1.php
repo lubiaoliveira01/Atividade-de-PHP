@@ -36,7 +36,7 @@
                                         //utilizamos a função "utf8_decode" para exibir os caracteres corretamente
         {    
             echo "<strong><p id=' '>Título:</strong> ".$item -> title."<br/>";
-            echo "<strong>Link:</strong> ".$item -> link."<br/>"
+            echo "<strong>Link:</strong> ".$item -> link."<br/>";
             echo "<strong>Guid:</strong> ".$item -> guid."<br/>";
             echo "<strong>Descrição:</strong> ".$item -> description."<br/>";
             echo "<strong>Categoria:</strong> ".$item -> category."<br/>";
